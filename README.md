@@ -104,9 +104,9 @@ additional method called `fly` that is unique to it, and not present on `Pet`.
 
 In this lesson, we learned about more functionality in JavaScript that allows
 us to leverage Object Orientation concepts: class extensions and inheritance.
-With `extends` we can create new classes that are capable utilizing of all the
+With `extends` we can create new classes that are capable of utilizing all the
 same methods as its parent. Leveraging inheritance and `extends` is vital in
-Object Oriented programming. It keep code bases maintainable by sharing and
+Object Oriented programming. It keeps code bases maintainable by sharing and
 reusing code in a beneficial manner.
 
 ## Resources
